@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="current_score">当前分：</string>
+    <string name="max_score">最高分：</string>
+    <string name="game_over">游戏结束</string>
+    <string name="sure">确定</string>
+</resources>
